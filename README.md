@@ -1,5 +1,5 @@
 ### ROS package for connecting two serial ports and establising publisher & subscriber ### 
-### Bluetronics ###
+### Developed by Visnu Ritesh, Research Trainee, Bluetronics ###
 
 
 The section contains ROS package and sample arduino codes to establish serial communication between two serial ports 
